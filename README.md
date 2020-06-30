@@ -8,3 +8,4 @@ GitHub é uma plataforma de hospedagem de código para controle de versão e col
 
 O que é Brunch
 Brunch é uma versão do master, ele serve para ser avaliado e testado depois pode ser incorporado ao master.
+
